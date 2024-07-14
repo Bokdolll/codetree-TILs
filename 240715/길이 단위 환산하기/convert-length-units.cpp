@@ -5,6 +5,6 @@ int main() {
     double n;
     cin>>n;
     double d=30.48;
-    cou<<n*d;
+    cout<<n*d;
     return 0;
 }
